@@ -2,10 +2,8 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="stylesheet" href="core/base.min.css" type="text/css"/>
-  <link rel="stylesheet" href="forms/gray-theme.css" type="text/css"/>
-  <link rel="stylesheet" href="navigation/hlist.css" type="text/css"/>
-  <link rel="stylesheet" href="screen/typography.css" type="text/css"/>
+  <link rel="stylesheet" href="screen.css" type="text/css" media="screen, projection">
+  <link rel="stylesheet" href="src/forms.css" type="text/css" media="screen, projection">
 </head>
 <body>
   <h1>Header One</h1>
@@ -20,7 +18,7 @@
     </ul>
   </nav>
 
-  <div class="container content-inner">
+  <div class="content">
     <h2>Header Two</h2>
 
     <table class="bordertable">
@@ -37,18 +35,18 @@
       </tr>
     </table>
 
-    <div class="ym-grid">
-      <div class="ym-g33 ym-gl">
+    <div class="container">
+      <div class="span-8">
         1
       </div>
 
-      <div class="ym-g33 ym-gl">
+      <div class="span-8">
         <div class="box success">
           This is an alert
         </div>
       </div>
 
-      <div class="ym-g33 ym-gl">
+      <div class="span-8">
         1
       </div>
     </div>
@@ -60,12 +58,12 @@
 
       <div class="ym-g25 ym-gl">
         <form class="ym-form" action="/">
-          <h3>Forming Form</h3>
+          <h3 class="uk-panel-title"><i class="uk-icon-cog"></i> Forming Form</h3>
           <div class="ym-fbox">
-            <label>ID:</label><input type="text" />
+            <label>ID:</label><input class="text" type="text" />
           </div>
           <div class="ym-fbox">
-            <label>Name:</label><input type="text" />
+            <label>Name:</label><input class="text" type="text" />
           </div>
           <div class="ym-fbox-footer ym-fbox-button">
             <input class="ym-primary ym-button" type="submit" value="Submit" />

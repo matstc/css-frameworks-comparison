@@ -70,6 +70,17 @@ Cons:
 - lots of files to include to get started
 
 # Blueprint
+Pros:
+
+- minimal
+- styles a lot of things by default
+- very simple to use
+
+Cons:
+
+- no widgets
+- no icons
+- not much advanced stuff
 
 # 960 Grid
 
