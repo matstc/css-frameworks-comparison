@@ -123,6 +123,9 @@ Cons:
 - Weird classes for buttons
 - Strange UX choices (default style hard to read or icons in the wrong place)
 
+## Fluidable
+A minimal grid-only framework.
+
 ## Kube
 Not tested.
 
@@ -132,11 +135,6 @@ Looks good. Has widgets and icons and other things.
 Not tested.
 
 Has lots of stuff. Documentation and default theme look quirky.
-
-## Fluidable
-Not tested.
-
-A minimal grid-only framework.
 
 ## Skeleton
 Not tested.
