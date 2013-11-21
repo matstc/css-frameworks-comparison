@@ -6,36 +6,6 @@ My favorite frameworks are:
 - twitter bootstrap
 - foundation
 
-# Knacss
-Pros:
-
-- Simple and small
-- Easy to install
-- Unicode icons
-- Responsive layout
-- Easy to learn
-- Fairly good documentation
-
-Cons:
-
-- No stylings for things like headers and action buttons
-
-
-# RöCSSti
-Similar to Knacss. Documentation lacking.
-
-# Jaidee
-Pros:
-
-- Simple to use
-- Some widgets like insets and blockquotes and buttons and lightboxes
-
-Cons:
-
-- Documentation looks weak
-- No images
-- Not lots of widgets
-
 # Twitter Bootstrap
 
 Pros:
@@ -60,6 +30,48 @@ Pros:
 Cons:
 
 - Layouts a bit complex
+
+# UIKit
+Pros:
+
+- Advanced layouts
+- Icons
+- Javascript stuff
+- Looks good
+- Good doc
+
+Cons:
+
+- Lots of classes to add
+
+# Knacss
+Pros:
+
+- Simple and small
+- Some icons
+- Responsive layout
+- Fairly good documentation
+
+Cons:
+
+- No stylings for things like headers and action buttons
+- strange class names
+
+
+# RöCSSti
+Similar to Knacss. Documentation lacking.
+
+# Jaidee
+Pros:
+
+- Simple to use
+- Some widgets like insets and blockquotes and buttons and lightboxes
+
+Cons:
+
+- Documentation looks weak
+- No images
+- Not lots of widgets
 
 # YAML
 Pros:
@@ -88,19 +100,6 @@ Cons:
 - no icons
 - not much advanced stuff
 
-# UIKit
-Pros:
-
-- Advanced layouts
-- Icons
-- Javascript stuff
-- Looks good
-- Good doc
-
-Cons:
-
-- Lots of classes to add
-
 # Unsemantic
 Pros:
 
@@ -112,9 +111,16 @@ Cons:
 - nothing but a grid layout (could be a pro too)
 
 # Gumby
-Not tested.
+Pros:
 
-Looks great. Good documentation.
+- has widgets and icons and stuff
+- good documentation
+- easy to use and customize
+
+Cons:
+
+- weird classes for buttons
+- strange UX choices (default style hard to read or icons in the wrong place)
 
 # Kube
 Not tested.
