@@ -1,24 +1,25 @@
-My notes on all the frameworks are below. See [this chart](http://usablica.github.io/front-end-frameworks/compare.html) for a quick overview of all the frameworks.
+Here is a quick comparative analysis of a lot of CSS frameworks. Some of them are quite minimal and only offer a way to layout your components in a grid ([unsemantic](http://unsemantic.com/), [fluidable](http://fluidable.com/)). Others give it to you whole and offer a grid layout, a CSS reset, icons and styles for all the components you'll want to display ([Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/), [UIkit](http://www.getuikit.com/)).
 
-My favorite frameworks are:
+I have used or would be happy to use any of the five frameworks I linked to above. My notes on these and other frameworks are below.
 
-- uikit
-- twitter bootstrap
-- foundation
+If you would like to quickly try it out for yourself, feel free to clone this git repository and fiddle with the file `index.html` for each framework.
 
-# Twitter Bootstrap
+Also, see [this cool chart](http://usablica.github.io/front-end-frameworks/compare.html) for a quick overview of all the frameworks.
 
+## Twitter Bootstrap
 Pros:
 
 - Simple to use
 - Images and icons and widgets
-- Stylings
+- Large user base
+- Good documentation
+- Usable
 
 Cons:
 
-- lots of extra html
+- A lot of extra html needed
 
-# Foundation
+## Foundation
 Pros:
 
 - Good doc
@@ -29,22 +30,23 @@ Pros:
 
 Cons:
 
-- Layouts a bit complex
+- Default styling not so usable
+- Layouts can get complex
 
-# UIKit
+## UIKit
 Pros:
 
 - Advanced layouts
 - Icons
 - Javascript stuff
-- Looks good
+- Minimal looks
 - Good doc
 
 Cons:
 
 - Lots of classes to add
 
-# Knacss
+## Knacss
 Pros:
 
 - Simple and small
@@ -55,13 +57,13 @@ Pros:
 Cons:
 
 - No stylings for things like headers and action buttons
-- strange class names
+- Strange class names
 
 
-# RöCSSti
+## RöCSSti
 Similar to Knacss. Documentation lacking.
 
-# Jaidee
+## Jaidee
 Pros:
 
 - Simple to use
@@ -73,65 +75,70 @@ Cons:
 - No images
 - Not lots of widgets
 
-# YAML
+## YAML
 Pros:
 
-- advanced layouts with simpler alternatives if the 12-column layout is not needed
-- lots of widgets
-- sass
-- some icons
+- Advanced layouts with simpler alternatives if the 12-column layout is not needed
+- Lots of widgets
+- Sass
+- Some icons
 
 Cons:
 
-- lots of classes + unclear conventions for class names
-- not lots of icons
-- lots of files to include to get started
+- A lot of classes required + unclear conventions for class names
+- Not lots of icons
+- Lots of files to include to get started
 
-# Blueprint
+## Blueprint
 Pros:
 
-- minimal
-- styles a lot of things by default
-- very simple to use
+- Minimal
+- Styles a lot of things by default
+- Very simple to use
 
 Cons:
 
-- no widgets
-- no icons
-- not much advanced stuff
+- No widgets
+- No icons
 
-# Unsemantic
+## Unsemantic
 Pros:
 
-- minimal
-- easy to use
+- Minimal
+- Easy to use
 
 Cons:
 
-- nothing but a grid layout (could be a pro too)
+- Nothing but a grid layout (could be a pro too)
 
-# Gumby
+## Gumby
 Pros:
 
-- has widgets and icons and stuff
-- good documentation
-- easy to use and customize
+- Has widgets and icons and stuff
+- Good documentation
+- Easy to use and customize
 
 Cons:
 
-- weird classes for buttons
-- strange UX choices (default style hard to read or icons in the wrong place)
+- Weird classes for buttons
+- Strange UX choices (default style hard to read or icons in the wrong place)
 
-# Kube
+## Kube
 Not tested.
 
 Looks good. Has widgets and icons and other things.
 
-# Groundwork CSS
+## Groundwork CSS
+Not tested.
+
 Has lots of stuff. Documentation and default theme look quirky.
 
-# Fluidable
+## Fluidable
+Not tested.
+
 A minimal grid-only framework.
 
-# Skeleton
+## Skeleton
+Not tested.
+
 Looks good. Has grid, typography and forms but no widgets or icons.
