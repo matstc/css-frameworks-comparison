@@ -1,4 +1,10 @@
-See [this chart](http://usablica.github.io/front-end-frameworks/compare.html) for more.
+My notes on all the frameworks are below. See [this chart](http://usablica.github.io/front-end-frameworks/compare.html) for a quick overview of all the frameworks.
+
+My favorite frameworks are:
+
+- uikit
+- twitter bootstrap
+- foundation
 
 # Knacss
 Pros:
@@ -82,8 +88,6 @@ Cons:
 - no icons
 - not much advanced stuff
 
-# 960 Grid
-
 # UIKit
 Pros:
 
@@ -97,16 +101,31 @@ Cons:
 
 - Lots of classes to add
 
-# Kube
+# Unsemantic
+Pros:
 
-# Groundwork CSS
+- minimal
+- easy to use
+
+Cons:
+
+- nothing but a grid layout (could be a pro too)
 
 # Gumby
+Not tested.
 
-# Unsemantic
+Looks great. Good documentation.
+
+# Kube
+Not tested.
+
+Looks good. Has widgets and icons and other things.
+
+# Groundwork CSS
+Has lots of stuff. Documentation and default theme look quirky.
 
 # Fluidable
-
-# Ink
+A minimal grid-only framework.
 
 # Skeleton
+Looks good. Has grid, typography and forms but no widgets or icons.
