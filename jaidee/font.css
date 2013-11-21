@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'SPLaksaman';src: url('splaksaman.eot');
+src: url('splaksaman.eot?#iefix') format('embedded-opentype'),
+         url('splaksaman.woff') format('woff'),
+         url('splaksaman.ttf') format('truetype'),
+         url('splaksaman.svg#SPLaksamanBook') format('svg');font-weight: normal;font-style: normal;
+}
